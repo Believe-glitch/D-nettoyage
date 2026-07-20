@@ -1,0 +1,8 @@
+<svg width="300" height="220" viewBox="0 0 300 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="220" rx="30" fill="#EFF6FF"/>
+  <path d="M40 150H260V170H40V150Z" fill="#DCE8FF"/>
+  <path d="M60 110H240V150H60V110Z" fill="#fff" stroke="#C6D9FF" stroke-width="12"/>
+  <path d="M90 80H130V110H90V80Z" fill="#2277F4"/>
+  <path d="M170 80H210V110H170V80Z" fill="#FFB100"/>
+  <text x="150" y="195" text-anchor="middle" fill="#1D263B" font-size="20" font-weight="700">Salon</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="300" height="220" viewBox="0 0 300 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="220" rx="30" fill="#FFF9EF"/>
+  <path d="M40 150H260V170H40V150Z" fill="#FFE2A6"/>
+  <path d="M50 90H250V148H50V90Z" fill="#fff" stroke="#FFE2A6" stroke-width="12"/>
+  <path d="M70 70H90V90H70V70Z" fill="#2277F4"/>
+  <path d="M110 70H150V90H110V70Z" fill="#2277F4"/>
+  <path d="M180 70H210V90H180V70Z" fill="#FFB100"/>
+  <text x="150" y="195" text-anchor="middle" fill="#1D263B" font-size="20" font-weight="700">Cuisine</text>
+</svg>

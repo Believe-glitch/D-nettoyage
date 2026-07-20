@@ -1,0 +1,8 @@
+<svg width="300" height="220" viewBox="0 0 300 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="220" rx="30" fill="#F8FBFF"/>
+  <path d="M50 150H250V170H50V150Z" fill="#DCEEFF"/>
+  <path d="M70 100H230V148H70V100Z" fill="#fff" stroke="#C6DAFF" stroke-width="12"/>
+  <path d="M110 70H142V100H110V70Z" fill="#2277F4"/>
+  <path d="M158 70H190V100H158V70Z" fill="#FFB100"/>
+  <text x="150" y="195" text-anchor="middle" fill="#1D263B" font-size="20" font-weight="700">Salle de bains</text>
+</svg>

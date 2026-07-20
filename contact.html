@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact - Propre & Co</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero hero-small">
+    <nav class="topbar">
+      <a class="brand" href="index.html">
+        <img src="images/logo.svg" alt="Logo Propre & Co" />
+        <span>Propre & Co</span>
+      </a>
+      <a class="nav-link" href="index.html">Accueil</a>
+    </nav>
+
+    <div class="hero-content">
+      <p class="eyebrow">Contactez-nous</p>
+      <h1>Nous sommes prêts à nettoyer votre intérieur.</h1>
+      <p class="hero-text">Demandez un devis gratuit pour le nettoyage de vos toilettes, cuisine, chambres et meubles.</p>
+      <div class="hero-actions">
+        <a href="tel:+243851788225" class="btn btn-secondary">Appeler maintenant</a>
+        <a href="mailto:contact@propreco.fr" class="btn btn-primary">Envoyer un mail</a>
+      </div>
+    </div>
+
+    <div class="hero-image">
+      <img src="images/cleaning-tools.webp" alt="Outils de nettoyage professionnels" />
+    </div>
+  </header>
+
+  <main>
+    <section class="section contact-form-section">
+      <div class="section-header">
+        <p class="small-title">Formulaire</p>
+        <h2>Racontez-nous votre besoin</h2>
+      </div>
+      <div class="contact-grid">
+        <div class="contact-card">
+          <p class="card-title">Informations</p>
+          <p>Appelez-nous ou envoyez un message. Nous répondons rapidement.</p>
+          <ul>
+            <li><strong>Téléphone :</strong> <a href="tel:+243851788225">+243 851 788 225</a></li>
+            <li><strong>Email :</strong> <a href="mailto:contact@propreco.fr">contact@propreco.fr</a></li>
+            <li><strong>Zones :</strong> Intérieur, cuisine, chambres, meubles</li>
+          </ul>
+        </div>
+        <form class="contact-form" action="#" method="post">
+          <label for="name">Nom complet</label>
+          <input id="name" name="name" type="text" placeholder="Votre nom" required />
+
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" placeholder="Votre email" required />
+
+          <label for="phone">Téléphone</label>
+          <input id="phone" name="phone" type="tel" placeholder="Votre numéro" />
+
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="6" placeholder="Décrivez votre besoin"></textarea>
+
+          <button class="btn btn-primary" type="submit">Envoyer la demande</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div>
+      <p class="small-title">Propre & Co</p>
+      <h2>Prêt à offrir un intérieur impeccable ?</h2>
+    </div>
+    <div class="footer-actions">
+      <a href="tel:+33000000000" class="btn btn-secondary">Appeler</a>
+      <a href="mailto:contact@propreco.fr" class="btn btn-primary">Envoyer un mail</a>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<svg width="300" height="220" viewBox="0 0 300 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="220" rx="30" fill="#EEF9EF"/>
+  <path d="M40 140H260V170H40V140Z" fill="#DFF2E4"/>
+  <path d="M60 110H240V140H60V110Z" fill="#fff" stroke="#BDE7C9" stroke-width="12"/>
+  <path d="M90 70H120V110H90V70Z" fill="#2277F4"/>
+  <path d="M180 70H210V110H180V70Z" fill="#FFB100"/>
+  <text x="150" y="195" text-anchor="middle" fill="#1D263B" font-size="20" font-weight="700">Chambre</text>
+</svg>
